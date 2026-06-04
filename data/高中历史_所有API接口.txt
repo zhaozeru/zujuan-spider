@@ -1,0 +1,29 @@
+# 高中历史 所有API接口列表
+# ================================================================================
+
+
+## 版本: 统编版
+------------------------------------------------------------
+册次: 必修中外历史纲要上 (ID: 136098)
+API: https://static.zxxk.com/zujuan/tree/ct_17_136098.json
+
+册次: 必修中外历史纲要下 (ID: 149285)
+API: https://static.zxxk.com/zujuan/tree/ct_17_149285.json
+
+册次: 选择性必修1 国家制度与社会治理 (ID: 164717)
+API: https://static.zxxk.com/zujuan/tree/ct_17_164717.json
+
+册次: 选择性必修2 经济与社会生活 (ID: 164718)
+API: https://static.zxxk.com/zujuan/tree/ct_17_164718.json
+
+册次: 选择性必修3 文化交流与传播 (ID: 164719)
+API: https://static.zxxk.com/zujuan/tree/ct_17_164719.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_17_136098.json
+https://static.zxxk.com/zujuan/tree/ct_17_149285.json
+https://static.zxxk.com/zujuan/tree/ct_17_164717.json
+https://static.zxxk.com/zujuan/tree/ct_17_164718.json
+https://static.zxxk.com/zujuan/tree/ct_17_164719.json

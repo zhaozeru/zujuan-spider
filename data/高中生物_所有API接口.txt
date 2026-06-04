@@ -1,0 +1,121 @@
+# 高中生物 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 必修1  分子与细胞 (ID: 150293)
+API: https://static.zxxk.com/zujuan/tree/ct_15_150293.json
+
+册次: 必修2 遗传与进化 (ID: 159254)
+API: https://static.zxxk.com/zujuan/tree/ct_15_159254.json
+
+册次: 选择性必修1  稳态与调节 (ID: 166354)
+API: https://static.zxxk.com/zujuan/tree/ct_15_166354.json
+
+册次: 选择性必修2  生物与环境 (ID: 166355)
+API: https://static.zxxk.com/zujuan/tree/ct_15_166355.json
+
+册次: 选择性必修3 生物技术与工程 (ID: 174112)
+API: https://static.zxxk.com/zujuan/tree/ct_15_174112.json
+
+
+## 版本: 浙科版
+------------------------------------------------------------
+册次: 必修 1 分子与细胞 (ID: 149231)
+API: https://static.zxxk.com/zujuan/tree/ct_15_149231.json
+
+册次: 必修2 遗传与进化 (ID: 159255)
+API: https://static.zxxk.com/zujuan/tree/ct_15_159255.json
+
+册次: 选择性必修1 稳态与调节 (ID: 177746)
+API: https://static.zxxk.com/zujuan/tree/ct_15_177746.json
+
+册次: 选择性必修2 生物与环境 (ID: 182042)
+API: https://static.zxxk.com/zujuan/tree/ct_15_182042.json
+
+册次: 选择性必修3  生物技术与工程 (ID: 182043)
+API: https://static.zxxk.com/zujuan/tree/ct_15_182043.json
+
+
+## 版本: 苏教版
+------------------------------------------------------------
+册次: 必修1  分子与细胞 (ID: 170937)
+API: https://static.zxxk.com/zujuan/tree/ct_15_170937.json
+
+册次: 必修2 遗传与进化 (ID: 176612)
+API: https://static.zxxk.com/zujuan/tree/ct_15_176612.json
+
+册次: 选择性必修1 稳态与调节 (ID: 184619)
+API: https://static.zxxk.com/zujuan/tree/ct_15_184619.json
+
+册次: 选择性必修2 生物与环境 (ID: 184620)
+API: https://static.zxxk.com/zujuan/tree/ct_15_184620.json
+
+册次: 选择性必修3  生物技术与工程 (ID: 186040)
+API: https://static.zxxk.com/zujuan/tree/ct_15_186040.json
+
+
+## 版本: 沪科版
+------------------------------------------------------------
+册次: 必修1 分子与细胞 (ID: 184941)
+API: https://static.zxxk.com/zujuan/tree/ct_15_184941.json
+
+册次: 必修2 遗传与进化 (ID: 186753)
+API: https://static.zxxk.com/zujuan/tree/ct_15_186753.json
+
+册次: 选择性必修1 稳态与调节 (ID: 187374)
+API: https://static.zxxk.com/zujuan/tree/ct_15_187374.json
+
+册次: 选择性必修2 生态与环境 (ID: 187375)
+API: https://static.zxxk.com/zujuan/tree/ct_15_187375.json
+
+册次: 选择性必修3 生物技术与工程 (ID: 187376)
+API: https://static.zxxk.com/zujuan/tree/ct_15_187376.json
+
+
+## 版本: 北师大版
+------------------------------------------------------------
+册次: 必修1 分子与细胞 (ID: 149742)
+API: https://static.zxxk.com/zujuan/tree/ct_15_149742.json
+
+册次: 必修2 遗传与进化 (ID: 159256)
+API: https://static.zxxk.com/zujuan/tree/ct_15_159256.json
+
+册次: 选择性必修1 稳态与调节 (ID: 165256)
+API: https://static.zxxk.com/zujuan/tree/ct_15_165256.json
+
+册次: 选择性必修2 生物与环境 (ID: 165257)
+API: https://static.zxxk.com/zujuan/tree/ct_15_165257.json
+
+册次: 选择性必修3 生物技术与工程 (ID: 165258)
+API: https://static.zxxk.com/zujuan/tree/ct_15_165258.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_15_150293.json
+https://static.zxxk.com/zujuan/tree/ct_15_159254.json
+https://static.zxxk.com/zujuan/tree/ct_15_166354.json
+https://static.zxxk.com/zujuan/tree/ct_15_166355.json
+https://static.zxxk.com/zujuan/tree/ct_15_174112.json
+https://static.zxxk.com/zujuan/tree/ct_15_149231.json
+https://static.zxxk.com/zujuan/tree/ct_15_159255.json
+https://static.zxxk.com/zujuan/tree/ct_15_177746.json
+https://static.zxxk.com/zujuan/tree/ct_15_182042.json
+https://static.zxxk.com/zujuan/tree/ct_15_182043.json
+https://static.zxxk.com/zujuan/tree/ct_15_170937.json
+https://static.zxxk.com/zujuan/tree/ct_15_176612.json
+https://static.zxxk.com/zujuan/tree/ct_15_184619.json
+https://static.zxxk.com/zujuan/tree/ct_15_184620.json
+https://static.zxxk.com/zujuan/tree/ct_15_186040.json
+https://static.zxxk.com/zujuan/tree/ct_15_184941.json
+https://static.zxxk.com/zujuan/tree/ct_15_186753.json
+https://static.zxxk.com/zujuan/tree/ct_15_187374.json
+https://static.zxxk.com/zujuan/tree/ct_15_187375.json
+https://static.zxxk.com/zujuan/tree/ct_15_187376.json
+https://static.zxxk.com/zujuan/tree/ct_15_149742.json
+https://static.zxxk.com/zujuan/tree/ct_15_159256.json
+https://static.zxxk.com/zujuan/tree/ct_15_165256.json
+https://static.zxxk.com/zujuan/tree/ct_15_165257.json
+https://static.zxxk.com/zujuan/tree/ct_15_165258.json

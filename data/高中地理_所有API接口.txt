@@ -1,0 +1,121 @@
+# 高中地理 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 145352)
+API: https://static.zxxk.com/zujuan/tree/ct_18_145352.json
+
+册次: 必修第二册 (ID: 158017)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158017.json
+
+册次: 选择性必修1 (ID: 165297)
+API: https://static.zxxk.com/zujuan/tree/ct_18_165297.json
+
+册次: 选择性必修2 (ID: 171551)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171551.json
+
+册次: 选择性必修3 (ID: 171552)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171552.json
+
+
+## 版本: 湘教版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 149256)
+API: https://static.zxxk.com/zujuan/tree/ct_18_149256.json
+
+册次: 必修第二册 (ID: 158018)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158018.json
+
+册次: 选择性必修1 (ID: 165298)
+API: https://static.zxxk.com/zujuan/tree/ct_18_165298.json
+
+册次: 选择性必修2 (ID: 166350)
+API: https://static.zxxk.com/zujuan/tree/ct_18_166350.json
+
+册次: 选择性必修3 (ID: 165429)
+API: https://static.zxxk.com/zujuan/tree/ct_18_165429.json
+
+
+## 版本: 鲁教版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 150295)
+API: https://static.zxxk.com/zujuan/tree/ct_18_150295.json
+
+册次: 必修第二册 (ID: 158020)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158020.json
+
+册次: 选择性必修1 (ID: 158923)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158923.json
+
+册次: 选择性必修2 (ID: 158924)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158924.json
+
+册次: 选择性必修3 (ID: 171553)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171553.json
+
+
+## 版本: 中图版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 149763)
+API: https://static.zxxk.com/zujuan/tree/ct_18_149763.json
+
+册次: 必修第二册 (ID: 158019)
+API: https://static.zxxk.com/zujuan/tree/ct_18_158019.json
+
+册次: 选择性必修1 (ID: 171554)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171554.json
+
+册次: 选择性必修2 (ID: 171555)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171555.json
+
+册次: 选择性必修3 (ID: 171556)
+API: https://static.zxxk.com/zujuan/tree/ct_18_171556.json
+
+
+## 版本: 中图中华地图版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 186981)
+API: https://static.zxxk.com/zujuan/tree/ct_18_186981.json
+
+册次: 必修第二册 (ID: 186982)
+API: https://static.zxxk.com/zujuan/tree/ct_18_186982.json
+
+册次: 选择性必修1 (ID: 186983)
+API: https://static.zxxk.com/zujuan/tree/ct_18_186983.json
+
+册次: 选择性必修2 (ID: 186984)
+API: https://static.zxxk.com/zujuan/tree/ct_18_186984.json
+
+册次: 选择性必修3 (ID: 186985)
+API: https://static.zxxk.com/zujuan/tree/ct_18_186985.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_18_145352.json
+https://static.zxxk.com/zujuan/tree/ct_18_158017.json
+https://static.zxxk.com/zujuan/tree/ct_18_165297.json
+https://static.zxxk.com/zujuan/tree/ct_18_171551.json
+https://static.zxxk.com/zujuan/tree/ct_18_171552.json
+https://static.zxxk.com/zujuan/tree/ct_18_149256.json
+https://static.zxxk.com/zujuan/tree/ct_18_158018.json
+https://static.zxxk.com/zujuan/tree/ct_18_165298.json
+https://static.zxxk.com/zujuan/tree/ct_18_166350.json
+https://static.zxxk.com/zujuan/tree/ct_18_165429.json
+https://static.zxxk.com/zujuan/tree/ct_18_150295.json
+https://static.zxxk.com/zujuan/tree/ct_18_158020.json
+https://static.zxxk.com/zujuan/tree/ct_18_158923.json
+https://static.zxxk.com/zujuan/tree/ct_18_158924.json
+https://static.zxxk.com/zujuan/tree/ct_18_171553.json
+https://static.zxxk.com/zujuan/tree/ct_18_149763.json
+https://static.zxxk.com/zujuan/tree/ct_18_158019.json
+https://static.zxxk.com/zujuan/tree/ct_18_171554.json
+https://static.zxxk.com/zujuan/tree/ct_18_171555.json
+https://static.zxxk.com/zujuan/tree/ct_18_171556.json
+https://static.zxxk.com/zujuan/tree/ct_18_186981.json
+https://static.zxxk.com/zujuan/tree/ct_18_186982.json
+https://static.zxxk.com/zujuan/tree/ct_18_186983.json
+https://static.zxxk.com/zujuan/tree/ct_18_186984.json
+https://static.zxxk.com/zujuan/tree/ct_18_186985.json

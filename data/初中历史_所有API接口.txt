@@ -1,0 +1,98 @@
+# 初中历史 所有API接口列表
+# ================================================================================
+
+
+## 版本: 统编版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 195870)
+API: https://static.zxxk.com/zujuan/tree/ct_8_195870.json
+
+册次: 七年级下册 (ID: 212951)
+API: https://static.zxxk.com/zujuan/tree/ct_8_212951.json
+
+册次: 八年级上册 (ID: 226652)
+API: https://static.zxxk.com/zujuan/tree/ct_8_226652.json
+
+册次: 八年级下册 (ID: 236088)
+API: https://static.zxxk.com/zujuan/tree/ct_8_236088.json
+
+
+## 版本: 统编版（五四学制）
+------------------------------------------------------------
+册次: 中国历史第一册 (ID: 209256)
+API: https://static.zxxk.com/zujuan/tree/ct_8_209256.json
+
+册次: 中国历史第二册 (ID: 214773)
+API: https://static.zxxk.com/zujuan/tree/ct_8_214773.json
+
+册次: 中国历史第三册 (ID: 227796)
+API: https://static.zxxk.com/zujuan/tree/ct_8_227796.json
+
+册次: 中国历史第四册 (ID: 238065)
+API: https://static.zxxk.com/zujuan/tree/ct_8_238065.json
+
+
+## 版本: 统编版（2016）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 71118)
+API: https://static.zxxk.com/zujuan/tree/ct_8_71118.json
+
+册次: 七年级下册 (ID: 71149)
+API: https://static.zxxk.com/zujuan/tree/ct_8_71149.json
+
+册次: 八年级上册 (ID: 99784)
+API: https://static.zxxk.com/zujuan/tree/ct_8_99784.json
+
+册次: 八年级下册 (ID: 127788)
+API: https://static.zxxk.com/zujuan/tree/ct_8_127788.json
+
+册次: 九年级上册 (ID: 128626)
+API: https://static.zxxk.com/zujuan/tree/ct_8_128626.json
+
+册次: 九年级下册 (ID: 131030)
+API: https://static.zxxk.com/zujuan/tree/ct_8_131030.json
+
+
+## 版本: 统编版（五四学制）（2018）
+------------------------------------------------------------
+册次: 中国历史第一册 (ID: 130957)
+API: https://static.zxxk.com/zujuan/tree/ct_8_130957.json
+
+册次: 中国历史第二册 (ID: 160849)
+API: https://static.zxxk.com/zujuan/tree/ct_8_160849.json
+
+册次: 中国历史第三册 (ID: 160850)
+API: https://static.zxxk.com/zujuan/tree/ct_8_160850.json
+
+册次: 中国历史第四册 (ID: 160851)
+API: https://static.zxxk.com/zujuan/tree/ct_8_160851.json
+
+册次: 世界历史第一册 (ID: 160852)
+API: https://static.zxxk.com/zujuan/tree/ct_8_160852.json
+
+册次: 世界历史第二册 (ID: 160853)
+API: https://static.zxxk.com/zujuan/tree/ct_8_160853.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_8_195870.json
+https://static.zxxk.com/zujuan/tree/ct_8_212951.json
+https://static.zxxk.com/zujuan/tree/ct_8_226652.json
+https://static.zxxk.com/zujuan/tree/ct_8_236088.json
+https://static.zxxk.com/zujuan/tree/ct_8_209256.json
+https://static.zxxk.com/zujuan/tree/ct_8_214773.json
+https://static.zxxk.com/zujuan/tree/ct_8_227796.json
+https://static.zxxk.com/zujuan/tree/ct_8_238065.json
+https://static.zxxk.com/zujuan/tree/ct_8_71118.json
+https://static.zxxk.com/zujuan/tree/ct_8_71149.json
+https://static.zxxk.com/zujuan/tree/ct_8_99784.json
+https://static.zxxk.com/zujuan/tree/ct_8_127788.json
+https://static.zxxk.com/zujuan/tree/ct_8_128626.json
+https://static.zxxk.com/zujuan/tree/ct_8_131030.json
+https://static.zxxk.com/zujuan/tree/ct_8_130957.json
+https://static.zxxk.com/zujuan/tree/ct_8_160849.json
+https://static.zxxk.com/zujuan/tree/ct_8_160850.json
+https://static.zxxk.com/zujuan/tree/ct_8_160851.json
+https://static.zxxk.com/zujuan/tree/ct_8_160852.json
+https://static.zxxk.com/zujuan/tree/ct_8_160853.json

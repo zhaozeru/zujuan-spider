@@ -1,0 +1,405 @@
+# 初中地理 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 197572)
+API: https://static.zxxk.com/zujuan/tree/ct_9_197572.json
+
+册次: 七年级下册 (ID: 214063)
+API: https://static.zxxk.com/zujuan/tree/ct_9_214063.json
+
+册次: 八年级上册 (ID: 224791)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224791.json
+
+册次: 八年级下册 (ID: 230973)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230973.json
+
+
+## 版本: 人教版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73615)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73615.json
+
+册次: 七年级下册 (ID: 73640)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73640.json
+
+册次: 八年级上册 (ID: 73664)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73664.json
+
+册次: 八年级下册 (ID: 73687)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73687.json
+
+
+## 版本: 湘教版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 198313)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198313.json
+
+册次: 七年级下册 (ID: 214064)
+API: https://static.zxxk.com/zujuan/tree/ct_9_214064.json
+
+册次: 八年级上册 (ID: 224792)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224792.json
+
+册次: 八年级下册 (ID: 230974)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230974.json
+
+
+## 版本: 湘教版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73234)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73234.json
+
+册次: 七年级下册 (ID: 73262)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73262.json
+
+册次: 八年级上册 (ID: 73285)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73285.json
+
+册次: 八年级下册 (ID: 73309)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73309.json
+
+
+## 版本: 商务星球版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 198849)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198849.json
+
+册次: 七年级下册 (ID: 214065)
+API: https://static.zxxk.com/zujuan/tree/ct_9_214065.json
+
+册次: 八年级上册 (ID: 224793)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224793.json
+
+册次: 八年级下册 (ID: 230975)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230975.json
+
+
+## 版本: 商务星球版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73124)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73124.json
+
+册次: 七年级下册 (ID: 73155)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73155.json
+
+册次: 八年级上册 (ID: 73180)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73180.json
+
+册次: 八年级下册 (ID: 73204)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73204.json
+
+
+## 版本: 中图版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 198561)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198561.json
+
+册次: 七年级下册 (ID: 214774)
+API: https://static.zxxk.com/zujuan/tree/ct_9_214774.json
+
+册次: 八年级上册 (ID: 224794)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224794.json
+
+册次: 八年级下册 (ID: 230976)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230976.json
+
+
+## 版本: 中图版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73442)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73442.json
+
+册次: 七年级下册 (ID: 73460)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73460.json
+
+册次: 八年级上册 (ID: 73486)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73486.json
+
+册次: 八年级下册 (ID: 73508)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73508.json
+
+
+## 版本: 粤人版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 198848)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198848.json
+
+册次: 七年级下册 (ID: 215678)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215678.json
+
+册次: 八年级上册 (ID: 224795)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224795.json
+
+册次: 八年级下册 (ID: 230977)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230977.json
+
+
+## 版本: 粤人版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73338)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73338.json
+
+册次: 七年级下册 (ID: 73367)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73367.json
+
+册次: 八年级上册 (ID: 73393)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73393.json
+
+册次: 八年级下册 (ID: 73416)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73416.json
+
+
+## 版本: 鲁教版（五四学制）
+------------------------------------------------------------
+册次: 六年级上册 (ID: 198314)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198314.json
+
+册次: 六年级下册 (ID: 215679)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215679.json
+
+册次: 七年级上册 (ID: 224796)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224796.json
+
+册次: 七年级下册 (ID: 233617)
+API: https://static.zxxk.com/zujuan/tree/ct_9_233617.json
+
+
+## 版本: 鲁教版（五四学制）（2012）
+------------------------------------------------------------
+册次: 六年级上册 (ID: 72908)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72908.json
+
+册次: 六年级下册 (ID: 72938)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72938.json
+
+册次: 七年级上册 (ID: 72967)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72967.json
+
+册次: 七年级下册 (ID: 72994)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72994.json
+
+
+## 版本: 晋教版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 198562)
+API: https://static.zxxk.com/zujuan/tree/ct_9_198562.json
+
+册次: 七年级下册 (ID: 215680)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215680.json
+
+册次: 八年级上册 (ID: 224797)
+API: https://static.zxxk.com/zujuan/tree/ct_9_224797.json
+
+册次: 八年级下册 (ID: 230978)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230978.json
+
+
+## 版本: 晋教版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 72814)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72814.json
+
+册次: 七年级下册 (ID: 72844)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72844.json
+
+册次: 八年级上册 (ID: 72866)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72866.json
+
+册次: 八年级下册 (ID: 72887)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72887.json
+
+
+## 版本: 中图版（北京）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 208081)
+API: https://static.zxxk.com/zujuan/tree/ct_9_208081.json
+
+册次: 七年级下册 (ID: 208082)
+API: https://static.zxxk.com/zujuan/tree/ct_9_208082.json
+
+册次: 八年级上册 (ID: 230979)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230979.json
+
+册次: 八年级下册 (ID: 238357)
+API: https://static.zxxk.com/zujuan/tree/ct_9_238357.json
+
+
+## 版本: 中图版（北京）（2014）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73530)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73530.json
+
+册次: 七年级下册 (ID: 73553)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73553.json
+
+册次: 八年级上册 (ID: 73572)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73572.json
+
+册次: 八年级下册 (ID: 73593)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73593.json
+
+
+## 版本: 仁爱科普版
+------------------------------------------------------------
+册次: 七年级上册 (ID: 209682)
+API: https://static.zxxk.com/zujuan/tree/ct_9_209682.json
+
+册次: 七年级下册 (ID: 215681)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215681.json
+
+册次: 八年级上册 (ID: 230980)
+API: https://static.zxxk.com/zujuan/tree/ct_9_230980.json
+
+册次: 八年级下册 (ID: 237882)
+API: https://static.zxxk.com/zujuan/tree/ct_9_237882.json
+
+
+## 版本: 仁爱科普版（2012）
+------------------------------------------------------------
+册次: 七年级上册 (ID: 73023)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73023.json
+
+册次: 七年级下册 (ID: 73048)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73048.json
+
+册次: 八年级上册 (ID: 73073)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73073.json
+
+册次: 八年级下册 (ID: 73100)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73100.json
+
+
+## 版本: 中华中图版（五四学制）
+------------------------------------------------------------
+册次: 六年级上册 (ID: 209683)
+API: https://static.zxxk.com/zujuan/tree/ct_9_209683.json
+
+册次: 六年级下册 (ID: 215682)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215682.json
+
+册次: 七年级上册 (ID: 209684)
+API: https://static.zxxk.com/zujuan/tree/ct_9_209684.json
+
+册次: 七年级下册 (ID: 215683)
+API: https://static.zxxk.com/zujuan/tree/ct_9_215683.json
+
+
+## 版本: 沪教版（上海）（2007）
+------------------------------------------------------------
+册次: 六年级第一学期 (ID: 72689)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72689.json
+
+册次: 六年级第二学期 (ID: 72716)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72716.json
+
+册次: 七年级第一学期 (ID: 72745)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72745.json
+
+册次: 七年级第二学期 (ID: 72776)
+API: https://static.zxxk.com/zujuan/tree/ct_9_72776.json
+
+
+## 版本: 人教版（五四学制）（2012）
+------------------------------------------------------------
+册次: 六年级上册 (ID: 73714)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73714.json
+
+册次: 六年级下册 (ID: 73739)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73739.json
+
+册次: 七年级上册 (ID: 73763)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73763.json
+
+册次: 七年级下册 (ID: 73786)
+API: https://static.zxxk.com/zujuan/tree/ct_9_73786.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_9_197572.json
+https://static.zxxk.com/zujuan/tree/ct_9_214063.json
+https://static.zxxk.com/zujuan/tree/ct_9_224791.json
+https://static.zxxk.com/zujuan/tree/ct_9_230973.json
+https://static.zxxk.com/zujuan/tree/ct_9_73615.json
+https://static.zxxk.com/zujuan/tree/ct_9_73640.json
+https://static.zxxk.com/zujuan/tree/ct_9_73664.json
+https://static.zxxk.com/zujuan/tree/ct_9_73687.json
+https://static.zxxk.com/zujuan/tree/ct_9_198313.json
+https://static.zxxk.com/zujuan/tree/ct_9_214064.json
+https://static.zxxk.com/zujuan/tree/ct_9_224792.json
+https://static.zxxk.com/zujuan/tree/ct_9_230974.json
+https://static.zxxk.com/zujuan/tree/ct_9_73234.json
+https://static.zxxk.com/zujuan/tree/ct_9_73262.json
+https://static.zxxk.com/zujuan/tree/ct_9_73285.json
+https://static.zxxk.com/zujuan/tree/ct_9_73309.json
+https://static.zxxk.com/zujuan/tree/ct_9_198849.json
+https://static.zxxk.com/zujuan/tree/ct_9_214065.json
+https://static.zxxk.com/zujuan/tree/ct_9_224793.json
+https://static.zxxk.com/zujuan/tree/ct_9_230975.json
+https://static.zxxk.com/zujuan/tree/ct_9_73124.json
+https://static.zxxk.com/zujuan/tree/ct_9_73155.json
+https://static.zxxk.com/zujuan/tree/ct_9_73180.json
+https://static.zxxk.com/zujuan/tree/ct_9_73204.json
+https://static.zxxk.com/zujuan/tree/ct_9_198561.json
+https://static.zxxk.com/zujuan/tree/ct_9_214774.json
+https://static.zxxk.com/zujuan/tree/ct_9_224794.json
+https://static.zxxk.com/zujuan/tree/ct_9_230976.json
+https://static.zxxk.com/zujuan/tree/ct_9_73442.json
+https://static.zxxk.com/zujuan/tree/ct_9_73460.json
+https://static.zxxk.com/zujuan/tree/ct_9_73486.json
+https://static.zxxk.com/zujuan/tree/ct_9_73508.json
+https://static.zxxk.com/zujuan/tree/ct_9_198848.json
+https://static.zxxk.com/zujuan/tree/ct_9_215678.json
+https://static.zxxk.com/zujuan/tree/ct_9_224795.json
+https://static.zxxk.com/zujuan/tree/ct_9_230977.json
+https://static.zxxk.com/zujuan/tree/ct_9_73338.json
+https://static.zxxk.com/zujuan/tree/ct_9_73367.json
+https://static.zxxk.com/zujuan/tree/ct_9_73393.json
+https://static.zxxk.com/zujuan/tree/ct_9_73416.json
+https://static.zxxk.com/zujuan/tree/ct_9_198314.json
+https://static.zxxk.com/zujuan/tree/ct_9_215679.json
+https://static.zxxk.com/zujuan/tree/ct_9_224796.json
+https://static.zxxk.com/zujuan/tree/ct_9_233617.json
+https://static.zxxk.com/zujuan/tree/ct_9_72908.json
+https://static.zxxk.com/zujuan/tree/ct_9_72938.json
+https://static.zxxk.com/zujuan/tree/ct_9_72967.json
+https://static.zxxk.com/zujuan/tree/ct_9_72994.json
+https://static.zxxk.com/zujuan/tree/ct_9_198562.json
+https://static.zxxk.com/zujuan/tree/ct_9_215680.json
+https://static.zxxk.com/zujuan/tree/ct_9_224797.json
+https://static.zxxk.com/zujuan/tree/ct_9_230978.json
+https://static.zxxk.com/zujuan/tree/ct_9_72814.json
+https://static.zxxk.com/zujuan/tree/ct_9_72844.json
+https://static.zxxk.com/zujuan/tree/ct_9_72866.json
+https://static.zxxk.com/zujuan/tree/ct_9_72887.json
+https://static.zxxk.com/zujuan/tree/ct_9_208081.json
+https://static.zxxk.com/zujuan/tree/ct_9_208082.json
+https://static.zxxk.com/zujuan/tree/ct_9_230979.json
+https://static.zxxk.com/zujuan/tree/ct_9_238357.json
+https://static.zxxk.com/zujuan/tree/ct_9_73530.json
+https://static.zxxk.com/zujuan/tree/ct_9_73553.json
+https://static.zxxk.com/zujuan/tree/ct_9_73572.json
+https://static.zxxk.com/zujuan/tree/ct_9_73593.json
+https://static.zxxk.com/zujuan/tree/ct_9_209682.json
+https://static.zxxk.com/zujuan/tree/ct_9_215681.json
+https://static.zxxk.com/zujuan/tree/ct_9_230980.json
+https://static.zxxk.com/zujuan/tree/ct_9_237882.json
+https://static.zxxk.com/zujuan/tree/ct_9_73023.json
+https://static.zxxk.com/zujuan/tree/ct_9_73048.json
+https://static.zxxk.com/zujuan/tree/ct_9_73073.json
+https://static.zxxk.com/zujuan/tree/ct_9_73100.json
+https://static.zxxk.com/zujuan/tree/ct_9_209683.json
+https://static.zxxk.com/zujuan/tree/ct_9_215682.json
+https://static.zxxk.com/zujuan/tree/ct_9_209684.json
+https://static.zxxk.com/zujuan/tree/ct_9_215683.json
+https://static.zxxk.com/zujuan/tree/ct_9_72689.json
+https://static.zxxk.com/zujuan/tree/ct_9_72716.json
+https://static.zxxk.com/zujuan/tree/ct_9_72745.json
+https://static.zxxk.com/zujuan/tree/ct_9_72776.json
+https://static.zxxk.com/zujuan/tree/ct_9_73714.json
+https://static.zxxk.com/zujuan/tree/ct_9_73739.json
+https://static.zxxk.com/zujuan/tree/ct_9_73763.json
+https://static.zxxk.com/zujuan/tree/ct_9_73786.json

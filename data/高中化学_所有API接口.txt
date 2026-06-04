@@ -1,0 +1,98 @@
+# 高中化学 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 145077)
+API: https://static.zxxk.com/zujuan/tree/ct_14_145077.json
+
+册次: 必修第二册 (ID: 153453)
+API: https://static.zxxk.com/zujuan/tree/ct_14_153453.json
+
+册次: 选择性必修1 (ID: 165936)
+API: https://static.zxxk.com/zujuan/tree/ct_14_165936.json
+
+册次: 选择性必修2 (ID: 166352)
+API: https://static.zxxk.com/zujuan/tree/ct_14_166352.json
+
+册次: 选择性必修3 (ID: 166353)
+API: https://static.zxxk.com/zujuan/tree/ct_14_166353.json
+
+
+## 版本: 鲁科版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 149211)
+API: https://static.zxxk.com/zujuan/tree/ct_14_149211.json
+
+册次: 必修第二册 (ID: 153454)
+API: https://static.zxxk.com/zujuan/tree/ct_14_153454.json
+
+册次: 选择性必修1 (ID: 165937)
+API: https://static.zxxk.com/zujuan/tree/ct_14_165937.json
+
+册次: 选择性必修2 (ID: 165938)
+API: https://static.zxxk.com/zujuan/tree/ct_14_165938.json
+
+册次: 选择性必修3 (ID: 165939)
+API: https://static.zxxk.com/zujuan/tree/ct_14_165939.json
+
+
+## 版本: 苏教版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 150292)
+API: https://static.zxxk.com/zujuan/tree/ct_14_150292.json
+
+册次: 必修第二册 (ID: 168393)
+API: https://static.zxxk.com/zujuan/tree/ct_14_168393.json
+
+册次: 选择性必修1 (ID: 174109)
+API: https://static.zxxk.com/zujuan/tree/ct_14_174109.json
+
+册次: 选择性必修2 (ID: 174110)
+API: https://static.zxxk.com/zujuan/tree/ct_14_174110.json
+
+册次: 选择性必修3 (ID: 174111)
+API: https://static.zxxk.com/zujuan/tree/ct_14_174111.json
+
+
+## 版本: 沪科版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 184902)
+API: https://static.zxxk.com/zujuan/tree/ct_14_184902.json
+
+册次: 必修第二册 (ID: 185474)
+API: https://static.zxxk.com/zujuan/tree/ct_14_185474.json
+
+册次: 选择性必修1  化学反应原理 (ID: 186978)
+API: https://static.zxxk.com/zujuan/tree/ct_14_186978.json
+
+册次: 选择性必修2 物质结构与性质 (ID: 186979)
+API: https://static.zxxk.com/zujuan/tree/ct_14_186979.json
+
+册次: 选择性必修3 有机化学基础 (ID: 186980)
+API: https://static.zxxk.com/zujuan/tree/ct_14_186980.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_14_145077.json
+https://static.zxxk.com/zujuan/tree/ct_14_153453.json
+https://static.zxxk.com/zujuan/tree/ct_14_165936.json
+https://static.zxxk.com/zujuan/tree/ct_14_166352.json
+https://static.zxxk.com/zujuan/tree/ct_14_166353.json
+https://static.zxxk.com/zujuan/tree/ct_14_149211.json
+https://static.zxxk.com/zujuan/tree/ct_14_153454.json
+https://static.zxxk.com/zujuan/tree/ct_14_165937.json
+https://static.zxxk.com/zujuan/tree/ct_14_165938.json
+https://static.zxxk.com/zujuan/tree/ct_14_165939.json
+https://static.zxxk.com/zujuan/tree/ct_14_150292.json
+https://static.zxxk.com/zujuan/tree/ct_14_168393.json
+https://static.zxxk.com/zujuan/tree/ct_14_174109.json
+https://static.zxxk.com/zujuan/tree/ct_14_174110.json
+https://static.zxxk.com/zujuan/tree/ct_14_174111.json
+https://static.zxxk.com/zujuan/tree/ct_14_184902.json
+https://static.zxxk.com/zujuan/tree/ct_14_185474.json
+https://static.zxxk.com/zujuan/tree/ct_14_186978.json
+https://static.zxxk.com/zujuan/tree/ct_14_186979.json
+https://static.zxxk.com/zujuan/tree/ct_14_186980.json

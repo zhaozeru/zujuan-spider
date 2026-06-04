@@ -1,0 +1,44 @@
+# 高中政治 所有API接口列表
+# ================================================================================
+
+
+## 版本: 统编版
+------------------------------------------------------------
+册次: 必修1 中国特色社会主义 (ID: 136278)
+API: https://static.zxxk.com/zujuan/tree/ct_16_136278.json
+
+册次: 必修2 经济与社会 (ID: 150294)
+API: https://static.zxxk.com/zujuan/tree/ct_16_150294.json
+
+册次: 必修3 政治与法治 (ID: 153455)
+API: https://static.zxxk.com/zujuan/tree/ct_16_153455.json
+
+册次: 必修4 哲学与文化 (ID: 153456)
+API: https://static.zxxk.com/zujuan/tree/ct_16_153456.json
+
+册次: 选择性必修1当代国际政治与经济 (ID: 165940)
+API: https://static.zxxk.com/zujuan/tree/ct_16_165940.json
+
+册次: 选择性必修2法律与生活 (ID: 168227)
+API: https://static.zxxk.com/zujuan/tree/ct_16_168227.json
+
+册次: 选择性必修3逻辑与思维 (ID: 168228)
+API: https://static.zxxk.com/zujuan/tree/ct_16_168228.json
+
+
+## 版本: 学生读本
+------------------------------------------------------------
+册次: 学生读本 (ID: 183096)
+API: https://static.zxxk.com/zujuan/tree/ct_16_183096.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_16_136278.json
+https://static.zxxk.com/zujuan/tree/ct_16_150294.json
+https://static.zxxk.com/zujuan/tree/ct_16_153455.json
+https://static.zxxk.com/zujuan/tree/ct_16_153456.json
+https://static.zxxk.com/zujuan/tree/ct_16_165940.json
+https://static.zxxk.com/zujuan/tree/ct_16_168227.json
+https://static.zxxk.com/zujuan/tree/ct_16_168228.json
+https://static.zxxk.com/zujuan/tree/ct_16_183096.json

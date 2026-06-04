@@ -1,0 +1,12 @@
+# 自动抓取的版本URL列表
+# 共 9 个版本
+
+https://zujuan.xkw.com/czhx/zj195855/
+https://zujuan.xkw.com/czhx/zj209650/
+https://zujuan.xkw.com/czhx/zj198303/
+https://zujuan.xkw.com/czhx/zj198305/
+https://zujuan.xkw.com/czhx/zj198304/
+https://zujuan.xkw.com/czhx/zj208073/
+https://zujuan.xkw.com/czhx/zj198302/
+https://zujuan.xkw.com/czhx/zj209249/
+https://zujuan.xkw.com/czhx/zj209649/

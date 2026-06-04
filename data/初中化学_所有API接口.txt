@@ -1,0 +1,105 @@
+# 初中化学 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 195869)
+API: https://static.zxxk.com/zujuan/tree/ct_5_195869.json
+
+册次: 九年级下册 (ID: 208577)
+API: https://static.zxxk.com/zujuan/tree/ct_5_208577.json
+
+
+## 版本: 人教版（五四学制）
+------------------------------------------------------------
+册次: 八年级全一册 (ID: 209679)
+API: https://static.zxxk.com/zujuan/tree/ct_5_209679.json
+
+册次: 九年级全一册 (ID: 231717)
+API: https://static.zxxk.com/zujuan/tree/ct_5_231717.json
+
+
+## 版本: 鲁教版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 198310)
+API: https://static.zxxk.com/zujuan/tree/ct_5_198310.json
+
+册次: 九年级下册 (ID: 211918)
+API: https://static.zxxk.com/zujuan/tree/ct_5_211918.json
+
+
+## 版本: 鲁教版（五四学制）
+------------------------------------------------------------
+册次: 八年级全一册 (ID: 198312)
+API: https://static.zxxk.com/zujuan/tree/ct_5_198312.json
+
+册次: 九年级全一册 (ID: 226650)
+API: https://static.zxxk.com/zujuan/tree/ct_5_226650.json
+
+
+## 版本: 沪教版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 198311)
+API: https://static.zxxk.com/zujuan/tree/ct_5_198311.json
+
+册次: 九年级下册 (ID: 211917)
+API: https://static.zxxk.com/zujuan/tree/ct_5_211917.json
+
+
+## 版本: 沪科版（五四学制）
+------------------------------------------------------------
+册次: 八年级全一册 (ID: 208080)
+API: https://static.zxxk.com/zujuan/tree/ct_5_208080.json
+
+册次: 九年级全一册 (ID: 230308)
+API: https://static.zxxk.com/zujuan/tree/ct_5_230308.json
+
+
+## 版本: 科粤版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 198309)
+API: https://static.zxxk.com/zujuan/tree/ct_5_198309.json
+
+册次: 九年级下册 (ID: 211916)
+API: https://static.zxxk.com/zujuan/tree/ct_5_211916.json
+
+
+## 版本: 北京版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 209254)
+API: https://static.zxxk.com/zujuan/tree/ct_5_209254.json
+
+册次: 九年级下册 (ID: 209255)
+API: https://static.zxxk.com/zujuan/tree/ct_5_209255.json
+
+
+## 版本: 仁爱科普版
+------------------------------------------------------------
+册次: 九年级上册 (ID: 209678)
+API: https://static.zxxk.com/zujuan/tree/ct_5_209678.json
+
+册次: 九年级下册 (ID: 215675)
+API: https://static.zxxk.com/zujuan/tree/ct_5_215675.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_5_195869.json
+https://static.zxxk.com/zujuan/tree/ct_5_208577.json
+https://static.zxxk.com/zujuan/tree/ct_5_209679.json
+https://static.zxxk.com/zujuan/tree/ct_5_231717.json
+https://static.zxxk.com/zujuan/tree/ct_5_198310.json
+https://static.zxxk.com/zujuan/tree/ct_5_211918.json
+https://static.zxxk.com/zujuan/tree/ct_5_198312.json
+https://static.zxxk.com/zujuan/tree/ct_5_226650.json
+https://static.zxxk.com/zujuan/tree/ct_5_198311.json
+https://static.zxxk.com/zujuan/tree/ct_5_211917.json
+https://static.zxxk.com/zujuan/tree/ct_5_208080.json
+https://static.zxxk.com/zujuan/tree/ct_5_230308.json
+https://static.zxxk.com/zujuan/tree/ct_5_198309.json
+https://static.zxxk.com/zujuan/tree/ct_5_211916.json
+https://static.zxxk.com/zujuan/tree/ct_5_209254.json
+https://static.zxxk.com/zujuan/tree/ct_5_209255.json
+https://static.zxxk.com/zujuan/tree/ct_5_209678.json
+https://static.zxxk.com/zujuan/tree/ct_5_215675.json

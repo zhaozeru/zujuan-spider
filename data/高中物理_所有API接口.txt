@@ -1,0 +1,141 @@
+# 高中物理 所有API接口列表
+# ================================================================================
+
+
+## 版本: 人教版
+------------------------------------------------------------
+册次: 必修 第一册 (ID: 136248)
+API: https://static.zxxk.com/zujuan/tree/ct_13_136248.json
+
+册次: 必修 第二册 (ID: 149857)
+API: https://static.zxxk.com/zujuan/tree/ct_13_149857.json
+
+册次: 必修 第三册 (ID: 149884)
+API: https://static.zxxk.com/zujuan/tree/ct_13_149884.json
+
+册次: 选择性必修 第一册 (ID: 150289)
+API: https://static.zxxk.com/zujuan/tree/ct_13_150289.json
+
+册次: 选择性必修 第二册 (ID: 150290)
+API: https://static.zxxk.com/zujuan/tree/ct_13_150290.json
+
+册次: 选择性必修 第三册 (ID: 150291)
+API: https://static.zxxk.com/zujuan/tree/ct_13_150291.json
+
+
+## 版本: 粤教版
+------------------------------------------------------------
+册次: 必修 第一册 (ID: 149489)
+API: https://static.zxxk.com/zujuan/tree/ct_13_149489.json
+
+册次: 必修 第二册 (ID: 159648)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159648.json
+
+册次: 必修 第三册 (ID: 159649)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159649.json
+
+册次: 选择性必修 第一册 (ID: 159650)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159650.json
+
+册次: 选择性必修 第二册 (ID: 159651)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159651.json
+
+册次: 选择性必修 第三册 (ID: 159652)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159652.json
+
+
+## 版本: 鲁科版
+------------------------------------------------------------
+册次: 必修 第一册 (ID: 149174)
+API: https://static.zxxk.com/zujuan/tree/ct_13_149174.json
+
+册次: 必修 第二册 (ID: 158013)
+API: https://static.zxxk.com/zujuan/tree/ct_13_158013.json
+
+册次: 必修 第三册 (ID: 159647)
+API: https://static.zxxk.com/zujuan/tree/ct_13_159647.json
+
+册次: 选择性必修 第一册 (ID: 168923)
+API: https://static.zxxk.com/zujuan/tree/ct_13_168923.json
+
+册次: 选择性必修 第二册 (ID: 168924)
+API: https://static.zxxk.com/zujuan/tree/ct_13_168924.json
+
+册次: 选择性必修 第三册 (ID: 168925)
+API: https://static.zxxk.com/zujuan/tree/ct_13_168925.json
+
+
+## 版本: 教科版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 154243)
+API: https://static.zxxk.com/zujuan/tree/ct_13_154243.json
+
+册次: 必修第二册 (ID: 158016)
+API: https://static.zxxk.com/zujuan/tree/ct_13_158016.json
+
+册次: 必修第三册 (ID: 181775)
+API: https://static.zxxk.com/zujuan/tree/ct_13_181775.json
+
+册次: 选择性必修第一册 (ID: 182040)
+API: https://static.zxxk.com/zujuan/tree/ct_13_182040.json
+
+册次: 选择性必修第二册 (ID: 182041)
+API: https://static.zxxk.com/zujuan/tree/ct_13_182041.json
+
+册次: 选择性必修第三册 (ID: 185255)
+API: https://static.zxxk.com/zujuan/tree/ct_13_185255.json
+
+
+## 版本: 沪科版
+------------------------------------------------------------
+册次: 必修第一册 (ID: 184201)
+API: https://static.zxxk.com/zujuan/tree/ct_13_184201.json
+
+册次: 必修第二册 (ID: 185779)
+API: https://static.zxxk.com/zujuan/tree/ct_13_185779.json
+
+册次: 必修第三册 (ID: 186779)
+API: https://static.zxxk.com/zujuan/tree/ct_13_186779.json
+
+册次: 选择性必修第一册 (ID: 186975)
+API: https://static.zxxk.com/zujuan/tree/ct_13_186975.json
+
+册次: 选择性必修第二册 (ID: 186976)
+API: https://static.zxxk.com/zujuan/tree/ct_13_186976.json
+
+册次: 选择性必修第三册 (ID: 186977)
+API: https://static.zxxk.com/zujuan/tree/ct_13_186977.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_13_136248.json
+https://static.zxxk.com/zujuan/tree/ct_13_149857.json
+https://static.zxxk.com/zujuan/tree/ct_13_149884.json
+https://static.zxxk.com/zujuan/tree/ct_13_150289.json
+https://static.zxxk.com/zujuan/tree/ct_13_150290.json
+https://static.zxxk.com/zujuan/tree/ct_13_150291.json
+https://static.zxxk.com/zujuan/tree/ct_13_149489.json
+https://static.zxxk.com/zujuan/tree/ct_13_159648.json
+https://static.zxxk.com/zujuan/tree/ct_13_159649.json
+https://static.zxxk.com/zujuan/tree/ct_13_159650.json
+https://static.zxxk.com/zujuan/tree/ct_13_159651.json
+https://static.zxxk.com/zujuan/tree/ct_13_159652.json
+https://static.zxxk.com/zujuan/tree/ct_13_149174.json
+https://static.zxxk.com/zujuan/tree/ct_13_158013.json
+https://static.zxxk.com/zujuan/tree/ct_13_159647.json
+https://static.zxxk.com/zujuan/tree/ct_13_168923.json
+https://static.zxxk.com/zujuan/tree/ct_13_168924.json
+https://static.zxxk.com/zujuan/tree/ct_13_168925.json
+https://static.zxxk.com/zujuan/tree/ct_13_154243.json
+https://static.zxxk.com/zujuan/tree/ct_13_158016.json
+https://static.zxxk.com/zujuan/tree/ct_13_181775.json
+https://static.zxxk.com/zujuan/tree/ct_13_182040.json
+https://static.zxxk.com/zujuan/tree/ct_13_182041.json
+https://static.zxxk.com/zujuan/tree/ct_13_185255.json
+https://static.zxxk.com/zujuan/tree/ct_13_184201.json
+https://static.zxxk.com/zujuan/tree/ct_13_185779.json
+https://static.zxxk.com/zujuan/tree/ct_13_186779.json
+https://static.zxxk.com/zujuan/tree/ct_13_186975.json
+https://static.zxxk.com/zujuan/tree/ct_13_186976.json
+https://static.zxxk.com/zujuan/tree/ct_13_186977.json

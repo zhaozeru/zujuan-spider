@@ -1,0 +1,29 @@
+# 高中语文 所有API接口列表
+# ================================================================================
+
+
+## 版本: 统编版
+------------------------------------------------------------
+册次: 必修上册 (ID: 135937)
+API: https://static.zxxk.com/zujuan/tree/ct_10_135937.json
+
+册次: 必修下册 (ID: 136029)
+API: https://static.zxxk.com/zujuan/tree/ct_10_136029.json
+
+册次: 选择性必修上册 (ID: 166430)
+API: https://static.zxxk.com/zujuan/tree/ct_10_166430.json
+
+册次: 选择性必修中册 (ID: 166432)
+API: https://static.zxxk.com/zujuan/tree/ct_10_166432.json
+
+册次: 选择性必修下册 (ID: 166431)
+API: https://static.zxxk.com/zujuan/tree/ct_10_166431.json
+
+
+# 纯API URL列表（每行一个）
+# ================================================================================
+https://static.zxxk.com/zujuan/tree/ct_10_135937.json
+https://static.zxxk.com/zujuan/tree/ct_10_136029.json
+https://static.zxxk.com/zujuan/tree/ct_10_166430.json
+https://static.zxxk.com/zujuan/tree/ct_10_166432.json
+https://static.zxxk.com/zujuan/tree/ct_10_166431.json
